@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/AjharAli",
   resume:
-    "https://drive.google.com/file/d/1kEjKqSU74NdIFX3ReOiMi7lwV2kUqM0x/view?usp=drivesdk",
+    "https://drive.google.com/file/d/19ScwRrAIO8XqlfbYbbGnG9jpBQP3Spbh/view?usp=drive_open",
   linkedin: "https://www.linkedin.com/in/ajhar-ali-52a459238/",
   insta: "https://www.instagram.com/its__azhar_03/"
 };
@@ -113,7 +113,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://play-lh.googleusercontent.com/8t6U6HGuMnP1DAJYpb4U_fEwVA7fgaOBJYRyfPHM5OLZllGj-8tsmJhu6Y4ikMrGpZg",
-    imgCer:"https://github.com/Devansh-13/My-Intro/assets/123819386/6d63a31a-37fe-4d21-8a9b-31ba30497458",
+    imgCer:"https://drive.google.com/file/d/1C--4-1gyHVBG_ONTNvuXRp-xNrGZCXJF/view",
     role: "React",
     company: "Internshala Trainings",
     date: "July 2023 - August 2023",
@@ -124,7 +124,7 @@ export const experiences = [
       "CSS",
       "Bootstrap"
     ],
-    doc: "https://drive.google.com/file/d/1hSWglqG8Pqyskny7YKNBvJ4ZuLaf5dME/view?usp=drivesdk",
+    doc: "https://drive.google.com/file/d/1OKsK-PblCPxRoVEdiP4TpZ96ViIXfPKN/view",
   },
   // {
   //   id: 0,
